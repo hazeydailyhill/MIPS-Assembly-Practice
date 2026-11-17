@@ -1,2 +1,2 @@
 # MIPS-Assembly
-CS 243 Fall 2023 MIPS assembly assignments
+CS 243 MIPS Assembly basics and practice assignments.
